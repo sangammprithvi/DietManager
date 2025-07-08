@@ -81,7 +81,7 @@ Additional Features
        The program allows searching the food by keywords
    Configuration:
        Database file path: `food_database.json`
-       Log file path: `food_log.json`
+       Log file path: `food_log2.json`
 
 
 
